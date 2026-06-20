@@ -26,14 +26,8 @@
     <a href="mailto:austingeorgeprofessional@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" style="margin: 0 15px;">
   </a>
-    <a href="https://wa.me/8304055376" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="40" style="margin: 0 15px;">
-  </a>
   <a href="https://www.hackerrank.com/profile/austingeorgesign" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" style="margin: 0 15px;">
-  </a>
-    <a href="tel:+918304055376" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="Mobile" width="40" style="margin: 0 15px;">
   </a>
 </p>
 

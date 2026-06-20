@@ -1,7 +1,7 @@
 ## Hi there, Austin George here,
 - Pursuing Master Of Technology From National Institute Of Technology Calicut.
-- Interested in Embedded Programming, Robotics, Edge Machine Learning. Focusing research on Edge Machine Learning and computing.
-- Software Engineer with 2 years of experience.
+- Interested in Embedded Programming, Robotics, Edge Machine Learning.
+- Software Engineer with nearly 2 years of experience.
 - Full Stack Developer with relevant work experience in Java Spring Boot, React and MySQL.
 - I write Clean, Maintainable, Extensible and Testable code.
 - Passionate about developing scalable, reliable, secure web applications.
